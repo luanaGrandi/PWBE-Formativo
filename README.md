@@ -29,5 +29,26 @@ Após isso o meu repositorio já está em sua máquina 🥳
 
 ## 2- Criar ambiente virtual ⚙️
   - Abrir o terminal o VSCODE
-  - Criar ambiente virtual: 'python -m venv env'
-  - Ativar o ambiente virtual: '.\venv\Scripts\activate'
+  - Criar ambiente virtual: ```python -m venv env```
+  - Ativar o ambiente virtual: ```.\venv\Scripts\activate```
+
+## 3- Instalar as dependências 🛠️
+  - Instalar: ```pip install -r requirements.txt```
+
+## 4- Verificar banco de dados 🔍
+
+Nesse projeto estamos utilizando o banco de dados, para que ele funcione sem nenhume erro, faça essas passos:
+ - entre na pasta: projeto;
+ - entre no: ```settings.py```
+ - procure o nome:```DATABASES```
+- Veja se ele está correto desta forma:
+  ```
+   'default': {
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'cadastro',
+        'USER': 'root',
+        'PASSWORD': 'senai',
+        'HOST': 'localhost',
+        'PORT': '3306'
+    }
+```
