@@ -59,6 +59,24 @@ Para que o banco de dados funcione, você precisa criar a tabela no MySQL Workbe
 ```CREATE DATABASE cadastro (nome da tabela)```
 
 Após a criação da tabela no banco de dados. De esses comandos para salvar suas alterações:
- ```py manage.py makemigrations
-    py manage.py migrate ```
- 
+```
+  py manage.py makemigrations
+  py manage.py migrate 
+```
+## 5- Criar usuário
+Para que você possa ter acesso a todas as funcionalidades do projeto, precisa criar um usuário com essa comando:
+```python manage.py createsuperuser```
+Agora só preencher o que está pedindo e PRONTO!
+❗É importante que você crie um G (Gestor) para ter acesso as todas as funcionalidades.
+
+
+## 6- Rodar o Projeto 🚀
+Para rodar o projeto basta dar esse comando:
+  - ```python manage.py runserver```
+
+## Chegamos ao final 🎉
+
+Passo a passo de como rodar o projeto está pronto, agora só falta você utiliza-lo !
+
+Se tiver alguma dúvida sobre o projeto, dá uma olhada na documentação:
+[Acesse aqui!](https://documenter.getpostman.com/view/41755224/2sB2qZENE9) 😆
