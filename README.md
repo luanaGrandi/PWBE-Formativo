@@ -1,4 +1,4 @@
-# PWBE-Formativo 👩🏻‍💻
+# PWBE-Formativo 
 
 ## Passo a Passo para rodar o meu Projeto 🏃‍♀️
 
@@ -16,3 +16,8 @@ Este projeto Formativo foi proposto pelo Senai Roberto Mange, na disciplina de P
 ❗É essencial que você tenha eles instalados
 
 ***
+
+## 1- Passo
+
+- clonar o meu repositorio;
+- Escrever no CMD: 
