@@ -6,4 +6,4 @@ Este projeto Formativo foi proposto pelo Senai Roberto Mange, na disciplina de P
 
 - Quer saber como faz para rodar esse Projeto 🤔
   
-- siga o Passo a passo!
+- siga o Passo a passo 👣
