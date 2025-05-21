@@ -17,7 +17,17 @@ Este projeto Formativo foi proposto pelo Senai Roberto Mange, na disciplina de P
 
 ***
 
-## 1- Passo
+## 1- Clonar Repositório 📂
 
-- clonar o meu repositorio;
-- Escrever no CMD: 
+- Clicar no Botão azul escrito 'CODE'
+- Copiar esse link: 'https://github.com/luanaGrandi/PWBE-Formativo.git'
+- Escrever no CMD: git clone https://github.com/luanaGrandi/PWBE-Formativo.git
+
+Após isso o meu repositorio já está em sua máquina 🥳
+
+- Abri a pasta no VSCODE
+
+## 2- Criar ambiente virtual ⚙️
+  - Abrir o terminal o VSCODE
+  - Criar ambiente virtual: 'python -m venv env'
+  - Ativar o ambiente virtual: '.\venv\Scripts\activate'
