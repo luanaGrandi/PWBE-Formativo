@@ -12,6 +12,7 @@ Este projeto Formativo foi proposto pelo Senai Roberto Mange, na disciplina de P
  - VSCODE instalado;
  - Python instalado;
  - MYSQL;
+   
 ❗É essencial que você tenha eles instalados
 
----
+***
