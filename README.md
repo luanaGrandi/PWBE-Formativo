@@ -6,4 +6,12 @@ Este projeto Formativo foi proposto pelo Senai Roberto Mange, na disciplina de P
 
 - Quer saber como faz para rodar esse Projeto 🤔
   
-- siga o Passo a passo 👣
+- siga o passo a passo 👣
+
+# O que você precisa ter em seu computador?
+ - VSCODE instalado;
+ - Python instalado;
+ - MYSQL;
+❗É essencial que você tenha eles instalados
+
+---
