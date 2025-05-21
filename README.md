@@ -55,9 +55,10 @@ Nesse projeto estamos utilizando o banco de dados, para que ele funcione sem nen
 
 
 Para que o banco de dados funcione, você precisa criar a tabela no MySQL Workbench, usando o comando
+
 ```CREATE DATABASE cadastro (nome da tabela)```
 
 Após a criação da tabela no banco de dados. De esses comandos para salvar suas alterações:
  ```py manage.py makemigrations
-      py manage.py migrate ```
+    py manage.py migrate ```
  
