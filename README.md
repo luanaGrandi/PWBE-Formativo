@@ -33,7 +33,7 @@ Após isso o meu repositorio já está em sua máquina 🥳
   - Ativar o ambiente virtual: ```.\venv\Scripts\activate```
 
 ## 3- Instalar as dependências 🛠️
-  - Instalar: ```pip install -r requirements.txt```
+  - Instalar: ```pip install -r requirement.txt```
 
 ## 4- Verificar banco de dados 🔍
 
